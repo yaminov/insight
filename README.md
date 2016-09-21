@@ -1,7 +1,7 @@
 # Building insight under Ubuntu 16.04 for ARM targets
 
 ## Install build dependencies
-`sudo apt-get install texinfo bison flex tcl8.6 tcl8.6-dev tk8.6 tk8.5-dev`
+`sudo apt-get install texinfo bison flex tcl8.5 tcl8.5-dev tk8.5 tk8.5-dev itcl3 itk3 iwidgets4`
 
 ## Clone repository
 `git clone --recursive https://github.com/yaminov/insight`
